@@ -1,5 +1,5 @@
 ## Craps Game Simulator
-A simple Java implementation of Craps game that allows 5 simulations of the game to be run at the same time using multithreading (runnable interface).
+A simple Java implementation of Craps game that allows 5 simulations of the game to be run at the same time using multithreading (Runnable interface).
 
 • The user name, balance and bet will be shared by all the threads.
 
